@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: "popings" , sans-serif; 
+}
+a {
+    text-decoration: none;
+    font-size: 1.3rem;
+}
+    
+header{
+    vertical-align: top;
+    display: inline-block;
+    
+}
+.topnav {
+    overflow: hidden;
+    background-color: brown;
+}
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 24px 30px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+.footer{
+    background-color: #373738;
+
+}
+    .foorter a {
+        display: inline-block;
+        vertical-align: top;
+        text-align: center;
+    }
+    .foorter ul {
+        display: inline-block;
+        vertical-align: baseline;
+    }
+
+
